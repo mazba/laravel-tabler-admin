@@ -1,0 +1,1066 @@
+.flag {
+  position: relative;
+  display: inline-block;
+  width: 1.33333em;
+  height: 1em;
+  vertical-align: -3px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  border: 1px solid #e6e8e9;
+  border-radius: 3px;
+}
+
+.flag-country-ad {
+  background-image: url(/images/ad.svg?b15469dcf007c63648d6c47d39cc9ae1);
+}
+
+.flag-country-ae {
+  background-image: url(/images/ae.svg?9368fdeb762416004e22ad9b1378632e);
+}
+
+.flag-country-af {
+  background-image: url(/images/af.svg?57449f51457847bcdcfbeedfae76e9c0);
+}
+
+.flag-country-ag {
+  background-image: url(/images/ag.svg?90883cda9a94651d590bfc7d6c32d5b8);
+}
+
+.flag-country-ai {
+  background-image: url(/images/ai.svg?970d829c6873afce205f3354345ab613);
+}
+
+.flag-country-al {
+  background-image: url(/images/al.svg?055e3891c91f0af9546a6b4167d5591e);
+}
+
+.flag-country-am {
+  background-image: url(/images/am.svg?622ae31df253568896c7b516523f3102);
+}
+
+.flag-country-ao {
+  background-image: url(/images/ao.svg?37b56f4c74db997f03f405e7631ea161);
+}
+
+.flag-country-aq {
+  background-image: url(/images/aq.svg?c274cc78ce428459bf4203002f06aea5);
+}
+
+.flag-country-ar {
+  background-image: url(/images/ar.svg?697bf9249089976d51a82f9e39115c9c);
+}
+
+.flag-country-as {
+  background-image: url(/images/as.svg?b14f6de29629df8734e87769b8e1596a);
+}
+
+.flag-country-at {
+  background-image: url(/images/at.svg?fd118351780cebe5d83b3e7e3dd21d75);
+}
+
+.flag-country-au {
+  background-image: url(/images/au.svg?1f76574015b6439d6c3b8e3088bf5a4f);
+}
+
+.flag-country-aw {
+  background-image: url(/images/aw.svg?ddf5e728c8fd7b0a4f9ea6eb1ed6f4df);
+}
+
+.flag-country-ax {
+  background-image: url(/images/ax.svg?eef2b48b12433583ddc949b7c9a64f1b);
+}
+
+.flag-country-az {
+  background-image: url(/images/az.svg?48e3254d995199d931bff001c43f7844);
+}
+
+.flag-country-ba {
+  background-image: url(/images/ba.svg?401fc92143792c757a594a9991002e2e);
+}
+
+.flag-country-bb {
+  background-image: url(/images/bb.svg?a98bce959b9d82502c2bef207c8a77d9);
+}
+
+.flag-country-bd {
+  background-image: url(/images/bd.svg?58653d07403a9d7a1b384b7da90dea44);
+}
+
+.flag-country-be {
+  background-image: url(/images/be.svg?539dfa5b9194140c445e89639fc061ef);
+}
+
+.flag-country-bf {
+  background-image: url(/images/bf.svg?1b2a016ade95c42be540d86c2e23be23);
+}
+
+.flag-country-bg {
+  background-image: url(/images/bg.svg?bed243695ffc44a8fdcd24c29d1751df);
+}
+
+.flag-country-bh {
+  background-image: url(/images/bh.svg?6bead355341bf0ac19f8f131fffdf3d6);
+}
+
+.flag-country-bi {
+  background-image: url(/images/bi.svg?f02e8a5993652a8ffc8c5199d7d9e2ce);
+}
+
+.flag-country-bj {
+  background-image: url(/images/bj.svg?2626ff7549208ee7e8dfee8221d5bb08);
+}
+
+.flag-country-bl {
+  background-image: url(/images/bl.svg?eb881669644a17d289ad05a72f84543d);
+}
+
+.flag-country-bm {
+  background-image: url(/images/bm.svg?810416c60a7ad160b1bebb15feed0a8e);
+}
+
+.flag-country-bn {
+  background-image: url(/images/bn.svg?4a7f410d716b01a1c6f4e51a62d30ce6);
+}
+
+.flag-country-bo {
+  background-image: url(/images/bo.svg?df25990d8447d2caca0619daefb6328f);
+}
+
+.flag-country-bq {
+  background-image: url(/images/bq.svg?ec0aa8376f116145525f4c8872992cd8);
+}
+
+.flag-country-br {
+  background-image: url(/images/br.svg?0e496bbb105a1947324b67e7a6acc04f);
+}
+
+.flag-country-bs {
+  background-image: url(/images/bs.svg?e855f98b302ee42db2aac7a1a4954a84);
+}
+
+.flag-country-bt {
+  background-image: url(/images/bt.svg?8035dc8258b08f32c86b25b50236a558);
+}
+
+.flag-country-bv {
+  background-image: url(/images/bv.svg?a8dd619183efec871debf6a909119b04);
+}
+
+.flag-country-bw {
+  background-image: url(/images/bw.svg?a5eaf3b223fe298e7caabb60e654c1d3);
+}
+
+.flag-country-by {
+  background-image: url(/images/by.svg?6fb0d90cb44d2ae42c34b0e2d5538419);
+}
+
+.flag-country-bz {
+  background-image: url(/images/bz.svg?75f262fd0b85566e4ed9e79c540cb04d);
+}
+
+.flag-country-ca {
+  background-image: url(/images/ca.svg?a9c78b0815fdc5ef579179c063fa2426);
+}
+
+.flag-country-cc {
+  background-image: url(/images/cc.svg?a240595f9bedfe2bd720482e11be6aec);
+}
+
+.flag-country-cd {
+  background-image: url(/images/cd.svg?084f67be5efce373f7363468b9534346);
+}
+
+.flag-country-cf {
+  background-image: url(/images/cf.svg?28d724887e24e4cdd841f9c7272be4f3);
+}
+
+.flag-country-cg {
+  background-image: url(/images/cg.svg?c465ff19dce014a47562ce016f78fd5a);
+}
+
+.flag-country-ch {
+  background-image: url(/images/ch.svg?e21ceaf43fa3689b2a2ee8b9bf1ae380);
+}
+
+.flag-country-ci {
+  background-image: url(/images/ci.svg?3d174f33d60f2b23e6651aaffc0cc691);
+}
+
+.flag-country-ck {
+  background-image: url(/images/ck.svg?f35a4efe4e47d2e80c81272d67973777);
+}
+
+.flag-country-cl {
+  background-image: url(/images/cl.svg?d11eeda42297a9bf1ed361101cb6e4cd);
+}
+
+.flag-country-cm {
+  background-image: url(/images/cm.svg?31001d883afee490682ad57c81528146);
+}
+
+.flag-country-cn {
+  background-image: url(/images/cn.svg?967285341b6377922bd0d5b64043a1b7);
+}
+
+.flag-country-co {
+  background-image: url(/images/co.svg?307b372620e6e39b4fff558e46f121f3);
+}
+
+.flag-country-cr {
+  background-image: url(/images/cr.svg?d33064173dc7446eb8cc23b978a8cf62);
+}
+
+.flag-country-cu {
+  background-image: url(/images/cu.svg?924cb521540d64332c533f10aa638ed3);
+}
+
+.flag-country-cv {
+  background-image: url(/images/cv.svg?3c7199e62e5e696e502de91ac61b9b5c);
+}
+
+.flag-country-cw {
+  background-image: url(/images/cw.svg?852051d5dc338d79d92b6c440eebfe60);
+}
+
+.flag-country-cx {
+  background-image: url(/images/cx.svg?b0726a59119540af9ba408ba471bcfc0);
+}
+
+.flag-country-cy {
+  background-image: url(/images/cy.svg?5a1ab725e4ace33a6a84ff075f240d1b);
+}
+
+.flag-country-cz {
+  background-image: url(/images/cz.svg?b7aaded87f7b3caa2338026902f6315d);
+}
+
+.flag-country-de {
+  background-image: url(/images/de.svg?12ec004b2b0915c26efb10abd35e80fe);
+}
+
+.flag-country-dj {
+  background-image: url(/images/dj.svg?9112191aa244ca450820e3f102041aa4);
+}
+
+.flag-country-dk {
+  background-image: url(/images/dk.svg?5963be4b43e5b8b26d7d7bafa98e77a1);
+}
+
+.flag-country-dm {
+  background-image: url(/images/dm.svg?577e87316cdeeeaf85374d771cb8826d);
+}
+
+.flag-country-do {
+  background-image: url(/images/do.svg?9d021ab45031179521cd47f5389eeac5);
+}
+
+.flag-country-dz {
+  background-image: url(/images/dz.svg?ce7760d1e94f59ea9f12a3eca8763d4f);
+}
+
+.flag-country-ec {
+  background-image: url(/images/ec.svg?58df0bd57374283911be976e9d84c64c);
+}
+
+.flag-country-ee {
+  background-image: url(/images/ee.svg?a99b38d8c672890d871e1eeb78cabb12);
+}
+
+.flag-country-eg {
+  background-image: url(/images/eg.svg?28628f2b1dcc2fe5f21ba6947aeba5d8);
+}
+
+.flag-country-eh {
+  background-image: url(/images/eh.svg?56f7880b8ee5981d9b987c3dcbd4f965);
+}
+
+.flag-country-er {
+  background-image: url(/images/er.svg?5fbfd295353bf5712afd60d936f57230);
+}
+
+.flag-country-es {
+  background-image: url(/images/es.svg?40d85b1fb8f7167e30475788f974741a);
+}
+
+.flag-country-et {
+  background-image: url(/images/et.svg?d7ed63416caba6153a7465b27d0062af);
+}
+
+.flag-country-fi {
+  background-image: url(/images/fi.svg?604642420c6c1fa7cc9534c259dcbc33);
+}
+
+.flag-country-fj {
+  background-image: url(/images/fj.svg?7a47dfcd932a79e2ef95b43140129a8b);
+}
+
+.flag-country-fk {
+  background-image: url(/images/fk.svg?ef9d0cb28991bd9b8cdb458a277f0362);
+}
+
+.flag-country-fm {
+  background-image: url(/images/fm.svg?8b89586aa17f61bbe33de417a7724b59);
+}
+
+.flag-country-fo {
+  background-image: url(/images/fo.svg?2708a57b80f5941743b52a9ded5f2fc9);
+}
+
+.flag-country-fr {
+  background-image: url(/images/fr.svg?eb881669644a17d289ad05a72f84543d);
+}
+
+.flag-country-ga {
+  background-image: url(/images/ga.svg?3ceedcc7d86251c909af7be687878a77);
+}
+
+.flag-country-gb {
+  background-image: url(/images/gb.svg?7373673f072c06ec42efb1dae1f25abe);
+}
+
+.flag-country-gd {
+  background-image: url(/images/gd.svg?f0497bc20e6e83a074b7a11b51c4fc40);
+}
+
+.flag-country-ge {
+  background-image: url(/images/ge.svg?2fe7594e7cee6001456fa165e6b894d0);
+}
+
+.flag-country-gf {
+  background-image: url(/images/gf.svg?a13b9ecda1130a33503a076741d1ff20);
+}
+
+.flag-country-gg {
+  background-image: url(/images/gg.svg?263d0c6db1b5acb46edb3d68eb1cb699);
+}
+
+.flag-country-gh {
+  background-image: url(/images/gh.svg?85b2238caf4617aa1321ca6533a5043a);
+}
+
+.flag-country-gi {
+  background-image: url(/images/gi.svg?57f445e8c99504b06fb215b9ae9b632f);
+}
+
+.flag-country-gl {
+  background-image: url(/images/gl.svg?92adef35e8aef094a78aa49851557bfa);
+}
+
+.flag-country-gm {
+  background-image: url(/images/gm.svg?d2df8ded1b65134b4753fbc7ccbe9c68);
+}
+
+.flag-country-gn {
+  background-image: url(/images/gn.svg?5ab69929bdfa4ba43a9bd66aa22f7436);
+}
+
+.flag-country-gp {
+  background-image: url(/images/gp.svg?eb881669644a17d289ad05a72f84543d);
+}
+
+.flag-country-gq {
+  background-image: url(/images/gq.svg?32d485533f63c392a3f7ebaf9b71b094);
+}
+
+.flag-country-gr {
+  background-image: url(/images/gr.svg?c5f7b15a81b549269ddd19d1b098eec7);
+}
+
+.flag-country-gs {
+  background-image: url(/images/gs.svg?5faa0a358c420e6a30c433ad52f966f7);
+}
+
+.flag-country-gt {
+  background-image: url(/images/gt.svg?cecf2621418d0589b738ba325ee85851);
+}
+
+.flag-country-gu {
+  background-image: url(/images/gu.svg?62d2bb1df01eadd1cefaf5a7e9f6f3b9);
+}
+
+.flag-country-gw {
+  background-image: url(/images/gw.svg?5baa23a309807cab270e373b6ccd1f6b);
+}
+
+.flag-country-gy {
+  background-image: url(/images/gy.svg?b755826bc008d668ef440e51867f7f56);
+}
+
+.flag-country-hk {
+  background-image: url(/images/hk.svg?d462e6301a32d8e8ac045ef42e003823);
+}
+
+.flag-country-hm {
+  background-image: url(/images/hm.svg?1f0d5cd6dacfbbaffbcb946bd4421468);
+}
+
+.flag-country-hn {
+  background-image: url(/images/hn.svg?9695606bd15b52a95f0c088ea6102324);
+}
+
+.flag-country-hr {
+  background-image: url(/images/hr.svg?9ded09dc6486e6188163ca97980f27d9);
+}
+
+.flag-country-ht {
+  background-image: url(/images/ht.svg?eb743ae454985e3d7b716671f991ba24);
+}
+
+.flag-country-hu {
+  background-image: url(/images/hu.svg?bb23bf51f461ec93bbd382600d9a3262);
+}
+
+.flag-country-id {
+  background-image: url(/images/id.svg?7386812ba0009f6adeb03c22ba2b0d8a);
+}
+
+.flag-country-ie {
+  background-image: url(/images/ie.svg?f334da36a992dd8b2d58c2061cbabe84);
+}
+
+.flag-country-il {
+  background-image: url(/images/il.svg?2f8ccb5fae4af2192e848ccd52b5d74c);
+}
+
+.flag-country-im {
+  background-image: url(/images/im.svg?55e390c5f2613a0401ae35a8a40310ee);
+}
+
+.flag-country-in {
+  background-image: url(/images/in.svg?f563806eb4be7a7a7be93afec74d40c7);
+}
+
+.flag-country-io {
+  background-image: url(/images/io.svg?82af05c344eeb7df09a73dd18bca23ec);
+}
+
+.flag-country-iq {
+  background-image: url(/images/iq.svg?8c43cc868b7776aa2e348ba423f90be9);
+}
+
+.flag-country-ir {
+  background-image: url(/images/ir.svg?6e0d57999f51b1985d0a17f595398673);
+}
+
+.flag-country-is {
+  background-image: url(/images/is.svg?b9a4a7fa673b154cd069a9d297aa83ab);
+}
+
+.flag-country-it {
+  background-image: url(/images/it.svg?84c1de0bc58efb3a315b80f53b5e69c7);
+}
+
+.flag-country-je {
+  background-image: url(/images/je.svg?ee6bfda26b34f38e7b1129539b36182c);
+}
+
+.flag-country-jm {
+  background-image: url(/images/jm.svg?bb5d1094035606cf12a288b1450a6cb5);
+}
+
+.flag-country-jo {
+  background-image: url(/images/jo.svg?f92dba7610425610b26031bfd04c72f5);
+}
+
+.flag-country-jp {
+  background-image: url(/images/jp.svg?634632fc8282c15c5836924d8382c3d5);
+}
+
+.flag-country-ke {
+  background-image: url(/images/ke.svg?891f27ffff829d78bd4286203d783c61);
+}
+
+.flag-country-kg {
+  background-image: url(/images/kg.svg?0292f07d0c052033f1e3031a3b5be08f);
+}
+
+.flag-country-kh {
+  background-image: url(/images/kh.svg?ee8f5402378343766810488effe30901);
+}
+
+.flag-country-ki {
+  background-image: url(/images/ki.svg?a3e172afec4937d52e8be469bb927c10);
+}
+
+.flag-country-km {
+  background-image: url(/images/km.svg?c782eb9b94f1ae0965c9c79837a69337);
+}
+
+.flag-country-kn {
+  background-image: url(/images/kn.svg?f684a5e0ae3854f3c634fae1fcb95f6b);
+}
+
+.flag-country-kp {
+  background-image: url(/images/kp.svg?969f5181750f9d650e1a918b250abe21);
+}
+
+.flag-country-kr {
+  background-image: url(/images/kr.svg?90d44ed866c5834c57a4f87019cb9449);
+}
+
+.flag-country-kw {
+  background-image: url(/images/kw.svg?22866e14386fa5e10fbbbd1a93439b09);
+}
+
+.flag-country-ky {
+  background-image: url(/images/ky.svg?6ea8ef4c532356ef17aff7a735d913a5);
+}
+
+.flag-country-kz {
+  background-image: url(/images/kz.svg?2c34817318eed11894bb583b0680f5c0);
+}
+
+.flag-country-la {
+  background-image: url(/images/la.svg?5ea37b6e0adb414dd6f210f230c03ede);
+}
+
+.flag-country-lb {
+  background-image: url(/images/lb.svg?c7e9c9f5679f4971d7274711323fbd13);
+}
+
+.flag-country-lc {
+  background-image: url(/images/lc.svg?9fd42f64ea39a1837bb7942684a81021);
+}
+
+.flag-country-li {
+  background-image: url(/images/li.svg?a1441df2047bead10fbe402ca0e7836e);
+}
+
+.flag-country-lk {
+  background-image: url(/images/lk.svg?11e7866723cddc8b0e7263f64b3f6b74);
+}
+
+.flag-country-lr {
+  background-image: url(/images/lr.svg?488b45d76871a60ee70fb460fde06c5b);
+}
+
+.flag-country-ls {
+  background-image: url(/images/ls.svg?95361a806dab5634c0c1973effe469ab);
+}
+
+.flag-country-lt {
+  background-image: url(/images/lt.svg?eab5482c11b11714beba070c54ef0c1b);
+}
+
+.flag-country-lu {
+  background-image: url(/images/lu.svg?f513ba7bff2cf25193ec91a50a75025b);
+}
+
+.flag-country-lv {
+  background-image: url(/images/lv.svg?1adc36283828097bc42f3376fb937d00);
+}
+
+.flag-country-ly {
+  background-image: url(/images/ly.svg?d248d81a24eeef967c428e8b668591c5);
+}
+
+.flag-country-ma {
+  background-image: url(/images/ma.svg?dc91b5e4aaeef7eb45bc2016b07afd9b);
+}
+
+.flag-country-mc {
+  background-image: url(/images/mc.svg?2917ae1253ea7685ee60ed2ccf780e06);
+}
+
+.flag-country-md {
+  background-image: url(/images/md.svg?08a465c329a4e5c2d970b686e3d72955);
+}
+
+.flag-country-me {
+  background-image: url(/images/me.svg?43cb6bbce00b69471da642f1d7a625a8);
+}
+
+.flag-country-mf {
+  background-image: url(/images/mf.svg?eb881669644a17d289ad05a72f84543d);
+}
+
+.flag-country-mg {
+  background-image: url(/images/mg.svg?a078a920cdc2e689697f79deeb9b39ce);
+}
+
+.flag-country-mh {
+  background-image: url(/images/mh.svg?eb70bfae99a94f55bbbdf77504639b99);
+}
+
+.flag-country-mk {
+  background-image: url(/images/mk.svg?7d10d1427b738e11875046a109f5ee6e);
+}
+
+.flag-country-ml {
+  background-image: url(/images/ml.svg?685e2afcf30ddd2c539ddc40a8573cb5);
+}
+
+.flag-country-mm {
+  background-image: url(/images/mm.svg?ab73d2d72c127ac3547c60ff0ae3043a);
+}
+
+.flag-country-mn {
+  background-image: url(/images/mn.svg?c9ed2c11de38db22b5560c31998c6256);
+}
+
+.flag-country-mo {
+  background-image: url(/images/mo.svg?08e483bb9d1d49d1250c8693958172f1);
+}
+
+.flag-country-mp {
+  background-image: url(/images/mp.svg?8de9b674e500c615e8d240bc104e7127);
+}
+
+.flag-country-mq {
+  background-image: url(/images/mq.svg?eb881669644a17d289ad05a72f84543d);
+}
+
+.flag-country-mr {
+  background-image: url(/images/mr.svg?49e5cc8eff9dac362c498611bd8b23c8);
+}
+
+.flag-country-ms {
+  background-image: url(/images/ms.svg?fa4645f12412ecb7227cfbc2215c1298);
+}
+
+.flag-country-mt {
+  background-image: url(/images/mt.svg?330aac078a5b97ed4143fefbf71cb6e2);
+}
+
+.flag-country-mu {
+  background-image: url(/images/mu.svg?88f67fd8a306e06237fbcdf1d2e1dd41);
+}
+
+.flag-country-mv {
+  background-image: url(/images/mv.svg?321266c07b8c506f0c25d7f6f90e20ef);
+}
+
+.flag-country-mw {
+  background-image: url(/images/mw.svg?77abbfc8ffa58a30eed9e2cf63fc0dd8);
+}
+
+.flag-country-mx {
+  background-image: url(/images/mx.svg?ed86043b1c904a1fda01c48c33631011);
+}
+
+.flag-country-my {
+  background-image: url(/images/my.svg?77729a88b5292c1e6e2bb2b70fbab45f);
+}
+
+.flag-country-mz {
+  background-image: url(/images/mz.svg?29932fc6939916a7666a142bf82702ef);
+}
+
+.flag-country-na {
+  background-image: url(/images/na.svg?5cbe40eda364f777276ea2ad90918a59);
+}
+
+.flag-country-nc {
+  background-image: url(/images/nc.svg?eb881669644a17d289ad05a72f84543d);
+}
+
+.flag-country-ne {
+  background-image: url(/images/ne.svg?853103944863201f25f6bf9b9e2fd89b);
+}
+
+.flag-country-nf {
+  background-image: url(/images/nf.svg?7dd14238b55f4afff8ede51961ce150c);
+}
+
+.flag-country-ng {
+  background-image: url(/images/ng.svg?77cd50642ce831ee740b2f51c9d1edac);
+}
+
+.flag-country-ni {
+  background-image: url(/images/ni.svg?2d291b2f366825bc253f5a7936df7e1d);
+}
+
+.flag-country-nl {
+  background-image: url(/images/nl.svg?8ccbe45eca26d0848048abe02668d244);
+}
+
+.flag-country-no {
+  background-image: url(/images/no.svg?18dfd88502973b12b923aaf3d43aece8);
+}
+
+.flag-country-np {
+  background-image: url(/images/np.svg?941f83e87f70474749a04132c010615a);
+}
+
+.flag-country-nr {
+  background-image: url(/images/nr.svg?1a90f0d810eb80b07f22ec6e2cfacb75);
+}
+
+.flag-country-nu {
+  background-image: url(/images/nu.svg?e6ed0353e5d6042ea367edfd688ee624);
+}
+
+.flag-country-nz {
+  background-image: url(/images/nz.svg?80802a391353e7eaf0d46d8cf81a3042);
+}
+
+.flag-country-om {
+  background-image: url(/images/om.svg?f0615c8086c7cc505ad82d4fa562d769);
+}
+
+.flag-country-pa {
+  background-image: url(/images/pa.svg?7a51ef58d264e518f1d31739821797a6);
+}
+
+.flag-country-pe {
+  background-image: url(/images/pe.svg?9c96e125fb24729d4933e415aedb00f1);
+}
+
+.flag-country-pf {
+  background-image: url(/images/pf.svg?23dc8ab101d0d2c20b68697d1dc36a0c);
+}
+
+.flag-country-pg {
+  background-image: url(/images/pg.svg?ed10b69be46d0b16c5496d8686b29abb);
+}
+
+.flag-country-ph {
+  background-image: url(/images/ph.svg?4241227453618e1ab0809ef8e6ccdce3);
+}
+
+.flag-country-pk {
+  background-image: url(/images/pk.svg?bc04b3a05a0743075b29a14303e700cc);
+}
+
+.flag-country-pl {
+  background-image: url(/images/pl.svg?eebd8b2aaa6be7363f919d3c12b09705);
+}
+
+.flag-country-pm {
+  background-image: url(/images/pm.svg?eb881669644a17d289ad05a72f84543d);
+}
+
+.flag-country-pn {
+  background-image: url(/images/pn.svg?4df2d36f139c43aaa71f3afddac62e9f);
+}
+
+.flag-country-pr {
+  background-image: url(/images/pr.svg?3996daa2bb30e49ca86cbc01310f99d2);
+}
+
+.flag-country-ps {
+  background-image: url(/images/ps.svg?61f988edcc658c62967b036ca1d94d97);
+}
+
+.flag-country-pt {
+  background-image: url(/images/pt.svg?7c5f08b661d5660b262b016510793bdf);
+}
+
+.flag-country-pw {
+  background-image: url(/images/pw.svg?59fbf248ece57284773d744b9152a1ee);
+}
+
+.flag-country-py {
+  background-image: url(/images/py.svg?0569535fd928da4e0f15ca149ef7d872);
+}
+
+.flag-country-qa {
+  background-image: url(/images/qa.svg?15606165a7f07ab31739754e111f7bc8);
+}
+
+.flag-country-re {
+  background-image: url(/images/re.svg?eb881669644a17d289ad05a72f84543d);
+}
+
+.flag-country-ro {
+  background-image: url(/images/ro.svg?c0fa8945ced46eeb4289263e6ab1ffe9);
+}
+
+.flag-country-rs {
+  background-image: url(/images/rs.svg?32efbe6003ae18451daf2003fdced2b2);
+}
+
+.flag-country-ru {
+  background-image: url(/images/ru.svg?eb8729b3ace6744c0642eab3edac3cdb);
+}
+
+.flag-country-rw {
+  background-image: url(/images/rw.svg?b2da8c4efe9ff35204d087120c1e32c1);
+}
+
+.flag-country-sa {
+  background-image: url(/images/sa.svg?158e1d75a10e4fd79b0f63201724c847);
+}
+
+.flag-country-sb {
+  background-image: url(/images/sb.svg?168f9da8652bf33ef3e390887de19344);
+}
+
+.flag-country-sc {
+  background-image: url(/images/sc.svg?0852fb0aee90801575c7404ff0a5b4fa);
+}
+
+.flag-country-sd {
+  background-image: url(/images/sd.svg?c7e731c0e825f0e3ed6bb790c3182fbb);
+}
+
+.flag-country-se {
+  background-image: url(/images/se.svg?1b52259910c52a3b6efd20c914eb3f82);
+}
+
+.flag-country-sg {
+  background-image: url(/images/sg.svg?4f57f56a27d5b039b975afdc9b314b7f);
+}
+
+.flag-country-sh {
+  background-image: url(/images/sh.svg?e28ac1547a461f468d328cbac86e4a8f);
+}
+
+.flag-country-si {
+  background-image: url(/images/si.svg?611eb951470082ae1da492697862fab1);
+}
+
+.flag-country-sj {
+  background-image: url(/images/sj.svg?85d036c4e9ae2c4b320f89609033f8fa);
+}
+
+.flag-country-sk {
+  background-image: url(/images/sk.svg?87e273cd07119449c651b3b2f6cbc87a);
+}
+
+.flag-country-sl {
+  background-image: url(/images/sl.svg?18b0cb38791452cb8d70f54344f17f33);
+}
+
+.flag-country-sm {
+  background-image: url(/images/sm.svg?3e0e9901c682da6a21111ed1327ac5f2);
+}
+
+.flag-country-sn {
+  background-image: url(/images/sn.svg?2a2f95a40a80501ebcfa8e1cae5dcd87);
+}
+
+.flag-country-so {
+  background-image: url(/images/so.svg?11fb437b5cf0eda1903458edb50ff6e0);
+}
+
+.flag-country-sr {
+  background-image: url(/images/sr.svg?312357d81103eddf8a8fd18e315666f8);
+}
+
+.flag-country-ss {
+  background-image: url(/images/ss.svg?33dd0e9dcdf2a8b10b18bd266bd45cdf);
+}
+
+.flag-country-st {
+  background-image: url(/images/st.svg?a6601ac877f0d8934aa5364e425fde2f);
+}
+
+.flag-country-sv {
+  background-image: url(/images/sv.svg?62e959d11bbfdb319effabf2c559c6bb);
+}
+
+.flag-country-sx {
+  background-image: url(/images/sx.svg?23f06fe30931473e4f4154cc503f3772);
+}
+
+.flag-country-sy {
+  background-image: url(/images/sy.svg?c9b7451746fc724c58f17e1b9e4c5ebc);
+}
+
+.flag-country-sz {
+  background-image: url(/images/sz.svg?f998352162a5f160d82d21bc2a50ea6e);
+}
+
+.flag-country-tc {
+  background-image: url(/images/tc.svg?8b6a1dbd7cab0ce5b7eb5e38a4bf852d);
+}
+
+.flag-country-td {
+  background-image: url(/images/td.svg?f3294e142adc7e519310345ff1af5048);
+}
+
+.flag-country-tf {
+  background-image: url(/images/tf.svg?b4a96b258675864dc547d97e6fcf0adf);
+}
+
+.flag-country-tg {
+  background-image: url(/images/tg.svg?ecaabd98f1407dabd9dea8fad045ca30);
+}
+
+.flag-country-th {
+  background-image: url(/images/th.svg?00cbbd4cfff5215b0f9f319a907af4dc);
+}
+
+.flag-country-tj {
+  background-image: url(/images/tj.svg?4a45c1eb3292cd9d0d656df071998aaf);
+}
+
+.flag-country-tk {
+  background-image: url(/images/tk.svg?213db2fd59ed2ba6fe6061bd3f5bf3d5);
+}
+
+.flag-country-tl {
+  background-image: url(/images/tl.svg?9607b87133b7771f22c3183828ed760e);
+}
+
+.flag-country-tm {
+  background-image: url(/images/tm.svg?f20e70eb4ee872b5f59e12572c2108ae);
+}
+
+.flag-country-tn {
+  background-image: url(/images/tn.svg?52fde3773288cf0eb6db344f6a36926b);
+}
+
+.flag-country-to {
+  background-image: url(/images/to.svg?93e1180769274e0c7de2756cd9bfbdea);
+}
+
+.flag-country-tr {
+  background-image: url(/images/tr.svg?c4d53ca86d2e651e6f7bd6b19a5d4fc1);
+}
+
+.flag-country-tt {
+  background-image: url(/images/tt.svg?f50188c5fc3d1b8ea0e18fde610e34bf);
+}
+
+.flag-country-tv {
+  background-image: url(/images/tv.svg?7dddfceddeb8b24d2175adeebe0a0fc9);
+}
+
+.flag-country-tw {
+  background-image: url(/images/tw.svg?ba7e6f8e052110471d3dc675cfe4b922);
+}
+
+.flag-country-tz {
+  background-image: url(/images/tz.svg?da62572441541a5b2e30872193e3cb49);
+}
+
+.flag-country-ua {
+  background-image: url(/images/ua.svg?acba06caa8572477766dad367e557a0d);
+}
+
+.flag-country-ug {
+  background-image: url(/images/ug.svg?cc87a3357a3be038c2108c21302ae435);
+}
+
+.flag-country-um {
+  background-image: url(/images/um.svg?93f1cd810d38da0402f79c9c9b0961e6);
+}
+
+.flag-country-us {
+  background-image: url(/images/us.svg?5ba2fce27f5e5500406bf78ab39eb570);
+}
+
+.flag-country-uy {
+  background-image: url(/images/uy.svg?bb1d30b943b70661667ce030b851d9d3);
+}
+
+.flag-country-uz {
+  background-image: url(/images/uz.svg?83f8968bb1f862bfb183c4141bee3bb6);
+}
+
+.flag-country-va {
+  background-image: url(/images/va.svg?609b5e1310475ee803cd08de05e638b8);
+}
+
+.flag-country-vc {
+  background-image: url(/images/vc.svg?6b57174b6f1719a7253a8bc24d87c51c);
+}
+
+.flag-country-ve {
+  background-image: url(/images/ve.svg?af62a21f4795d040aae32f6cc3ed1ab2);
+}
+
+.flag-country-vg {
+  background-image: url(/images/vg.svg?296582105a0c627573e10842c24c6039);
+}
+
+.flag-country-vi {
+  background-image: url(/images/vi.svg?9e763eccbff39f1b74136c89e24ee299);
+}
+
+.flag-country-vn {
+  background-image: url(/images/vn.svg?7edb3fd74e6a6c9a6853a3e510360d96);
+}
+
+.flag-country-vu {
+  background-image: url(/images/vu.svg?5583adf59c5f5cf475a061a388ee7ec4);
+}
+
+.flag-country-wf {
+  background-image: url(/images/wf.svg?eb881669644a17d289ad05a72f84543d);
+}
+
+.flag-country-ws {
+  background-image: url(/images/ws.svg?77e32f9660e59397847b6dcc69f6f800);
+}
+
+.flag-country-ye {
+  background-image: url(/images/ye.svg?a5b04b2aed2d8b8a9d4ed33f917d054b);
+}
+
+.flag-country-yt {
+  background-image: url(/images/yt.svg?eb881669644a17d289ad05a72f84543d);
+}
+
+.flag-country-za {
+  background-image: url(/images/za.svg?0061ee0c22917d7ba9b8d04d4ae7f7c0);
+}
+
+.flag-country-zm {
+  background-image: url(/images/zm.svg?f125b7713a3765b26aa758ba32771ea6);
+}
+
+.flag-country-zw {
+  background-image: url(/images/zw.svg?73c8a325b0c417ccfb887d1742706147);
+}
+
+.flag-country-es-ct {
+  background-image: url(/images/es-ct.svg?5097cb994522831882b1e88f94e78e42);
+}
+
+.flag-country-eu {
+  background-image: url(/images/eu.svg?cfe1d80c44c0ee164bee828f26743e7e);
+}
+
+.flag-country-gb-eng {
+  background-image: url(/images/gb-eng.svg?74c2fc099e753db6057eaabbd9e3af1c);
+}
+
+.flag-country-gb-nir {
+  background-image: url(/images/gb-nir.svg?5fa091df8e2378701d417adbd542473a);
+}
+
+.flag-country-gb-sct {
+  background-image: url(/images/gb-sct.svg?bfc164832297d0b0bc5ffd7544582938);
+}
+
+.flag-country-gb-wls {
+  background-image: url(/images/gb-wls.svg?03c089c1a413e8bb598c1a58c9c70095);
+}
+
+.flag-country-un {
+  background-image: url(/images/un.svg?96d3ba7381beb0481be0ec13b2be4731);
+}
+
+.flag-xs {
+  width: 1.25rem;
+  height: 0.9375rem;
+}
+
+.flag-sm {
+  width: 2rem;
+  height: 1.5rem;
+}
+
+.flag-md {
+  width: 3.75rem;
+  height: 2.8125rem;
+}
+
+.flag-lg {
+  width: 5rem;
+  height: 3.75rem;
+}
+
+.flag-xl {
+  width: 7rem;
+  height: 5.25rem;
+}
+
+.flag-2xl {
+  width: 11rem;
+  height: 8.25rem;
+}
